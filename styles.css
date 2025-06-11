@@ -144,6 +144,11 @@ body {
     color: var(--botao-azul);
 }
 
-.lista_link a:active{
-    color: ;
+.lista_link a:active {
+    color: purple;
+}
+
+.container_botao:houver{
+    background-color: var(--botao-azul-efeito);
+    color: var(--cor-de-fundo);
 }
